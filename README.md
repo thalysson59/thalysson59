@@ -1,2 +1,1 @@
-- 👋 Hi, I’m Thalysson.
-- 🌱 I’m currently learning Java.
+No code here.
